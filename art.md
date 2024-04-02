@@ -1,0 +1,7 @@
+---
+layout: page
+title: Art Projects
+subtitle: How I learned to stop worrying and embrace playing weird
+---
+
+### TEST TEST

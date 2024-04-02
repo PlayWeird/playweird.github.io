@@ -22,8 +22,8 @@ author: Gaetano Evangelista
 navbar-links:
   About Me: "aboutme"
   Projects: 
-    - Code: ""
-    - Art: ""
+    - Code: "code"
+    - Art: "art"
   Passions/Hobbies: ""
 
 ################
