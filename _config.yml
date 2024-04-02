@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Blog
+title: My Journey
 
 # Your name to show in the footer
 author: Gaetano Evangelista
@@ -21,7 +21,7 @@ author: Gaetano Evangelista
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  :
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
@@ -52,15 +52,15 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
+  # facebook: deanattali
+  github: playweird
+  # twitter: daattali
+  # patreon: DeanAttali
   youtube: "@daattali"
-  whatsapp: 15551212
+  # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
