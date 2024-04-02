@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Name is Gaetano
+title: Hello friend
 subtitle: How I learned to stop worrying and embrace playing weird
 ---
 
