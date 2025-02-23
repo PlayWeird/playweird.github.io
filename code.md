@@ -38,7 +38,7 @@ A Python implementation of distributed control algorithms for coordinated moveme
 
 ### Links
 
-* [Read Full Project Details]({% post_url 2024-02-23-flocking-simulation %})
+* [Read Full Project Details]({% post_url 2025-02-22-flocking-simulation %})
 * [View on GitHub](https://github.com/PlayWeird/flock)
 * [View Demos](https://youtube.com/playlist?list=PLxxx)
 ---
