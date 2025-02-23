@@ -25,6 +25,25 @@ Each agent in the simulation follows three main rules:
 
 Simple rules, complex behavior - kind of like how simple animation principles can create complex, lifelike movement.
 
+<!-- Here's what it looks like when the parameters aren't quite right:
+{% include youtubePlayer.html id="vipvhkDKgF0" %}
+
+And here's what happens when we get it tuned properly:
+{% include youtubePlayer.html id="0H-RWii3nu8" %}
+
+## The Results
+
+The system ended up being pretty robust. Here are some examples of what it can do:
+
+Static target acquisition with obstacles:
+{% include youtubePlayer.html id="UR5oA-l4V2g" %}
+
+Moving target tracking:
+{% include youtubePlayer.html id="3q1r9iyXw14" %}
+
+Obstacle avoidance while tracking:
+{% include youtubePlayer.html id="kOSNw5gHd4E" %} -->
+
 This project was a perfect example of how different fields can inform each other. My animation background helped me recognize when the movement looked "right" or "wrong," while the robotics side gave me the tools to actually make it work. It's not just about the math - it's about creating movement that feels natural and purposeful.
 
 The code is available on [GitHub](https://github.com/PlayWeird/flock) if you're interested in looking under the hood.

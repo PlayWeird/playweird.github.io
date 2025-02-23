@@ -3,6 +3,7 @@ layout: post
 title: From Animation to AI - How a Mario-Playing Neural Net Changed My Path
 subtitle: Sometimes your calling finds you through a YouTube video
 tags: [AI, Machine Learning, Personal Journey, Neural Networks]
+pin: true
 ---
 
 You know that moment when you stumble across something that just clicks? For me, it was watching a neural network learn to play Super Mario World. There I was, probably procrastinating on some animation deadline, when I found myself watching [Seth Bling's MarI/O video](https://www.youtube.com/watch?v=qv6UVOQ0F44). A neural network, through trial and error, figuring out how to navigate Mario through a level. No pre-programmed rules, just learning from experience. I was hooked.
