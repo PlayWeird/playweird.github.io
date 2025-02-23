@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Bridging Technical Innovation with Creative Problem-Solving
+subtitle: From animating characters to teaching robots how to see
 ---
 
 # Hello, I'm Gaetano
