@@ -21,7 +21,7 @@ A deep learning approach to automating forensic dental analysis using 3D U-Net a
 
 ### Links
 
-* [Read Full Project Details](2021-12-10-utooth-segmentation.md)
+* [Read Full Project Details]({% post_url 2021-12-10-utooth-segmentation %})
 * [View on GitHub](https://github.com/PlayWeird/utooth)
 
 ---
