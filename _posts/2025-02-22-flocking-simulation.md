@@ -2,7 +2,7 @@
 layout: post
 title: "Multi-Agent Flocking: When Animation Meets Robotics"
 subtitle: "Creating natural group behaviors through distributed control"
-gh-repo: PlayWeird/flocking-simulation
+gh-repo: PlayWeird/flock
 gh-badge: [star, fork, follow]
 tags: [robotics, simulation, python, animation]
 comments: true
@@ -37,6 +37,6 @@ The simulation shows some interesting behaviors under different conditions. You 
 
 This project was a perfect example of how different fields can inform each other. My animation background helped me recognize when the movement looked "right" or "wrong," while the robotics side gave me the tools to actually make it work. It's not just about the math - it's about creating movement that feels natural and purposeful.
 
-The code is available on [GitHub](https://github.com/PlayWeird/flocking-simulation) if you're interested in looking under the hood.
+The code is available on [GitHub](https://github.com/PlayWeird/flock) if you're interested in looking under the hood.
 
 *P.S. If you're interested in the intersection of animation and robotics, you might enjoy reading about [my journey from animation to AI]({% post_url 2024-02-22-bridging-ai-and-creativity %}). Sometimes the best insights come from unexpected connections.*
