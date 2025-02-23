@@ -39,4 +39,4 @@ This project was a perfect example of how different fields can inform each other
 
 The code is available on [GitHub](https://github.com/PlayWeird/flock) if you're interested in looking under the hood.
 
-*P.S. If you're interested in the intersection of animation and robotics, you might enjoy reading about [my journey from animation to AI]({% post_url 2024-02-22-bridging-ai-and-creativity %}). Sometimes the best insights come from unexpected connections.*
+*P.S. If you're interested in the intersection of animation and robotics, you might enjoy reading about [my journey from animation to AI]({% post_url 2025-02-22-bridging-ai-and-creativity %}). Sometimes the best insights come from unexpected connections.*
