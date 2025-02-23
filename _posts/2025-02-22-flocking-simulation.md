@@ -2,7 +2,7 @@
 layout: post
 title: "Multi-Agent Flocking: When Animation Meets Robotics"
 subtitle: "Creating natural group behaviors through distributed control"
-gh-repo: PlayWeird/flocking-simulation
+gh-repo: PlayWeird/flock
 gh-badge: [star, fork, follow]
 tags: [robotics, simulation, python, animation]
 comments: true
