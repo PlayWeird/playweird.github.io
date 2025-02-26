@@ -58,8 +58,7 @@ An AI-powered system for automated inspection of public infrastructure. Using co
 
 ### Links
 
-* [Project Overview]({% post_url 2024-10-15-infrastructure-inspection %})
-* [Technical Architecture]({% post_url 2024-11-05-damage-detection-tech %})
+* [Project Overview]({% post_url 2025-10-15-infrastructure-inspection %})
 
 ---
 
