@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Journey
+title: Home
 
 # Your name to show in the footer
 author: Gaetano Evangelista
@@ -25,7 +25,7 @@ navbar-links:
     - Code: "code"
     - Art: "art"
   Hire Me: "resume"
-  Passions / Hobbies: "passions"
+  Culture: "passions"
 
 ################
 # --- Logo --- #
