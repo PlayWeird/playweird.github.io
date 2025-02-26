@@ -8,16 +8,16 @@ subtitle: Exploring the intersection of technology and creativity
 
 Here you'll find my art and creative projects that showcase the intersection of technology and artistic expression.
 
-## Spacefish Animation Series
+## Spacefish Episode 1: Help Un-Wanted Pilot
 
-An animated short series exploring the adventures of interstellar explorers. This project combines traditional animation principles with modern digital techniques to create a unique visual storytelling experience.
+It is slightly after the Little Bang but before the Big one, and the Universe is in need of organization. Lazlo and Tequila, the only known Spacefish in existence, are looking for work. Little do they know that work is also looking for them. In a bizarre accident involving Lazlo's less than lovable cat PeeWee and the edge of Everything, the Spacefish find themselves lost, alone, and in desperate need of help. They find help in a little feral robot, G13n-42, and together they begin their search for a way back home. Instead, they end up at an apartment building where they find Batiste Delacroix, the Universe incarnate. He, in an act of desperation, hires the Spacefish to essentially do his job and organize the Everything, put the strangeness back in order, and decide how the laws of the universe will work. Lazlo and Tequila can't go home until the job is done.
 
 ### Key Features
 
-* Character-driven narrative with environmental themes
-* Custom digital brushwork and animation techniques
-* Original soundtrack and sound design
-* Released on YouTube with over 10,000 views
+* Cosmic characters with existential job problems
+* Original soundtrack and sound design from another dimension
+* Blending traditional animation principles with digital techniques
+* A universe where physics are still being figured out
 
 ### Links
 
