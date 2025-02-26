@@ -2,7 +2,7 @@
 layout: post
 title: "The Making of Spacefish: A 4-Year Labor of Love"
 subtitle: "What happens when ambition exceeds budget but not stubbornness"
-date: 2013-10-08
+date: 2013-10-08 12:00:00 -0500
 tags: [animation, creative, spacefish, behind-the-scenes]
 ---
 
