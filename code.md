@@ -8,6 +8,24 @@ subtitle: From Animation to AI - A Journey Through Creative Problem Solving
 
 Here you'll find my technical projects that showcase the intersection of machine learning, computer vision, and practical applications.
 
+## Bus Stop Infrastructure Monitoring System
+
+An innovative AI-powered system that automates the inspection of bus stop infrastructure across city transit networks. By combining computer vision, geographic processing, and advanced AI models, this system eliminates the need for bus drivers to manually inspect stops, allowing them to focus on safe operation and passenger service.
+
+### Key Features
+
+* Three-stage detection pipeline (Geofence Matching, YOLO Detection, VQA Analysis)
+* Dramatic cost reduction from $110,000 to $800 per monitoring unit
+* Self-contained operation with high-resolution cameras and depth sensors
+* Multiple AI model support (both cloud-based and local options)
+* Comprehensive bus stop condition tracking and historical analysis
+* Flexible mounting options for diverse transit vehicle types
+* Strategic maintenance planning through pattern recognition
+
+### Links
+
+* [Project Overview]({% post_url 2025-02-27-bus-stop-monitoring-system %})
+
 ## uTooth: Automated Tooth Segmentation
 
 A deep learning approach to automating forensic dental analysis using 3D U-Net architecture. This project reduces the time-intensive process of manually segmenting teeth from CT scans from hours to seconds, helping forensic anthropologists identify victims more efficiently.
@@ -43,22 +61,6 @@ A Python implementation of distributed control algorithms for coordinated moveme
 * [Read Full Project Details]({% post_url 2025-02-22-flocking-simulation %})
 * [View on GitHub](https://github.com/PlayWeird/flock)
 * [View Demos](https://youtube.com/playlist?list=PLALEfgo6zTwrBcTQs0qAeUh3c1HjtwVj-&si=-wO39mmgf8NNy1lF)
-
-## Infrastructure Damage Detection
-
-An AI-powered system for automated inspection of public infrastructure. Using computer vision and multi-modal sensing, this project streamlines maintenance workflows for city services by automatically detecting, classifying, and reporting damage to structures like bus shelters and benches.
-
-### Key Features
-
-* Multi-stage detection pipeline using YOLO architecture
-* Visual Question Answering for detailed damage assessment
-* GPS and sensor fusion for precise location tracking
-* Integration with municipal maintenance workflows
-* Few-shot learning capabilities for new damage types
-
-### Links
-
-* [Project Overview]({% post_url 2025-02-25-infrastructure-inspection %})
 
 ---
 
