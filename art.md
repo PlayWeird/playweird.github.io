@@ -22,7 +22,7 @@ It is slightly after the Little Bang but before the Big one, and the Universe is
 ### Links
 
 * [Watch on YouTube](https://youtu.be/Pd-7Jculi_E?si=k23f5xb9vgtYWtQo)
-* [Read About the Making Process]({% post_url making-of-spacefish %})
+* [Read About the Making Process]({% post_url 2013-10-08-making-of-spacefish %})
 
 ---
 
