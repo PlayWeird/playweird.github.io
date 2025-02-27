@@ -21,7 +21,7 @@ Our system went through multiple iterations to reach its current form:
 
 **Final Generation**: The real breakthrough came when we leveraged recent advances in AI, particularly vision-language models and monocular depth estimation. This eliminated the need for expensive LiDAR entirely, allowing us to extract detailed 3D information from standard camera images while simultaneously assessing infrastructure conditions.
 
-![Final Generation System](/assets/img/inspection-system.jpg)
+![Final Generation System](/assets/img/damage_detect_dirty.png)
 
 At just $800 per unit, our current system integrates:
 - High-resolution 12MP camera
