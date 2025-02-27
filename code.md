@@ -24,7 +24,7 @@ An innovative AI-powered system that automates the inspection of bus stop infras
 
 ### Links
 
-* [Project Overview]({% post_url 2025-02-27-bus-stop-monitoring-system %})
+* [Project Overview]({% post_url 2025-02-25-infrastructure-inspection %})
 
 ## uTooth: Automated Tooth Segmentation
 
