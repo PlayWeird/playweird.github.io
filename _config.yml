@@ -26,6 +26,7 @@ navbar-links:
     - Art: "art"
   Hire Me: "resume"
   Culture: "culture"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
