@@ -27,7 +27,7 @@ An innovative AI-powered system that automates the inspection of bus stop infras
 * [Project Overview]({% post_url 2025-02-25-infrastructure-inspection %})
 
 ## uTooth: Automated Tooth Segmentation
-
+![Tooth Segmentation Results]({{ site.baseurl }}/assets/img/utooth.gif){: .mx-auto.d-block :}
 A deep learning approach to automating forensic dental analysis using 3D U-Net architecture. This project reduces the time-intensive process of manually segmenting teeth from CT scans from hours to seconds, helping forensic anthropologists identify victims more efficiently.
 
 ### Key Features
@@ -41,8 +41,6 @@ A deep learning approach to automating forensic dental analysis using 3D U-Net a
 
 * [Read Full Project Details]({% post_url 2021-12-10-utooth-segmentation %})
 * [View on GitHub](https://github.com/PlayWeird/utooth)
-
-![Tooth Segmentation Results]({{ site.baseurl }}/assets/img/utooth.gif){: .mx-auto.d-block :}
 
 ## Multi-Agent Flocking Simulation
 
