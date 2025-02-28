@@ -37,4 +37,4 @@ I'm seeking opportunities to apply my technical expertise in machine learning an
 
 ---
 
-Interested in collaboration or discussing ML projects? [Get in touch](#contact)!
+Interested in collaboration or discussing ML projects? [Get in touch](/contact)!
