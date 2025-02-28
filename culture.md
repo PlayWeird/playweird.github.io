@@ -60,6 +60,29 @@ As an animator and production assistant for Comic Relief, I worked on several To
 - **FF2 - NOLA Indie Film Festival** - New Orleans, Louisiana (2013)
 - **Egyptian Theatre** - Los Angeles, California (2011)
 
+## Life Outside Work
+
+Beyond my professional endeavors and community involvement, I maintain a balanced life through various hobbies and activities that keep me grounded and energized.
+
+### Adventures with Artemis
+
+My adventures in the Reno area are often shared with my hiking companion, Artemis. Together we explore the beautiful trails around the Sierra Nevada mountains.
+
+![Artemis on the trail](/assets/img/artemis.jpg){: .mx-auto.d-block :}
+*Add your photo of Artemis here*
+
+### Music & Creativity
+
+Playing bass guitar provides a different kind of creative outlet than my technical work. The rhythm and feel of bass playing requires a different mindset - one that balances technical precision with intuitive groove. It's a perfect complement to both my animation background and current technical work.
+
+### Outdoor Pursuits
+
+Living in Nevada offers incredible access to natural beauty:
+
+- **Paddling:** Exploring local lakes like Tahoe, Pyramid, and Donner from the water perspective
+- **Hiking:** Discovering new trails throughout the Sierra Nevada range
+- **Desert exploration:** Finding beauty in Nevada's unique desert landscapes
+
 ## What I Bring to Company Culture
 
 Organizations that would benefit from my particular approach tend to value:
@@ -71,6 +94,20 @@ Organizations that would benefit from my particular approach tend to value:
 - **Community impact** - Connecting technical innovations to real human needs
 
 My current work in AI perception systems for infrastructure inspection represents a perfect integration of these values - using technology to solve practical problems that improve community well-being, approached with both technical rigor and creative problem-solving.
+
+## Career Evolution & What I'm Seeking Now
+
+My career journey has had its distinct phases. The younger version of me - the animation studio founder and creative director - would have thrived in the chaotic energy of early-stage startups. That version of me embraced uncertainty, wore multiple hats, and navigated the constant pivots that define startup culture.
+
+While I still value creativity and innovation, my priorities have evolved. Today, I'm seeking:
+
+- **Stability with growth** - A well-established organization where I can deepen my expertise while having the security to take calculated risks
+- **Mentorship opportunities** - Access to experienced leaders in ML and computer vision who can help me continue developing my technical skills
+- **Clear development paths** - Structured opportunities to grow both technically and professionally
+- **Work-life integration** - An environment that values sustainable pace and recognizes that burnout doesn't lead to better outcomes
+- **Purpose-driven work** - Projects that connect to meaningful impact, whether that's improving infrastructure, enhancing safety, or solving other substantive problems
+
+I bring the creative problem-solving skills from my animation days, the technical capabilities from my ML research, and the mindful approach that ties it all together. But rather than seeking the adrenaline rush of startup uncertainty, I'm looking to apply these skills in an environment where I can build something lasting.
 
 ## The Continuous Thread
 
